@@ -11,8 +11,8 @@ A pod to test workspace parsing of SwiftArchitekkt.
     s.author           = { 'Lausbert' => 'stephanlerner@icloud.com' }
     s.source           = { :git => 'https://github.com/Lausbert/CocoaPod.git', :tag => s.version.to_s }
 
-    s.platform = :osx
-    s.osx.deployment_target = "10.14"
+    s.platform = :ios
+    s.osx.deployment_target = "13.4"
     s.swift_version = '5.0'
   
   s.source_files = 'CocoaPod/Classes/**/*'
