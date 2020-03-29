@@ -15,20 +15,20 @@ Install _fastlane_ using
 or alternatively using `brew cask install fastlane`
 
 # Available Actions
-## Mac
-### mac patch
+## iOS
+### ios patch
 ```
-fastlane mac patch
+fastlane ios patch
 ```
 Release a new version with a patch bump_type
-### mac minor
+### ios minor
 ```
-fastlane mac minor
+fastlane ios minor
 ```
 Release a new version with a minor bump_type
-### mac major
+### ios major
 ```
-fastlane mac major
+fastlane ios major
 ```
 Release a new version with a major bump_type
 
