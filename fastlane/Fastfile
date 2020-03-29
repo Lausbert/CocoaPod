@@ -1,6 +1,6 @@
-default_platform(:mac)
+default_platform(:ios)
 
-platform :mac do
+platform :ios do
 
   desc "Release a new version with a patch bump_type"
   lane :patch do
