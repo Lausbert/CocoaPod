@@ -15,6 +15,6 @@ A pod to test workspace parsing of SwiftArchitekkt.
     s.osx.deployment_target = "10.14"
     s.swift_version = '5.0'
   
-  s.source_files = 'CocoaPod/Source/**/*'
+  s.source_files = 'CocoaPod/Classes/**/*'
 end
 
