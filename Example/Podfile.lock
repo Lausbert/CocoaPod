@@ -1,5 +1,5 @@
 PODS:
-  - CocoaPod (0.1.0)
+  - CocoaPod (0.1.1)
 
 DEPENDENCIES:
   - CocoaPod (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CocoaPod: fe4f411bd41913d73ea159d4dd8896c5c6458f26
+  CocoaPod: 8983447ce7f200a68ddf7a76e50bf56efb190ccf
 
 PODFILE CHECKSUM: 3c0a85c6f0e59a562d1728e3af84f9df676f0061
 

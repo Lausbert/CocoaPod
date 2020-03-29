@@ -1,22 +1,21 @@
 {
   "name": "CocoaPod",
-  "version": "0.1.0",
-  "summary": "A short description of CocoaPod.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1.1",
+  "summary": "A pod to test workspace parsing of SwiftArchitekkt.",
+  "description": "A pod to test workspace parsing of SwiftArchitekkt.",
   "homepage": "https://github.com/Lausbert/CocoaPod",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
   "authors": {
-    "Lausbert": "Stephanlerner@icloud.com"
+    "Lausbert": "stephanlerner@icloud.com"
   },
   "source": {
     "git": "https://github.com/Lausbert/CocoaPod.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": null,
+    "osx": "13.4"
   },
-  "source_files": "CocoaPod/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "CocoaPod/Classes/**/*",
+  "swift_version": "5.0"
 }
